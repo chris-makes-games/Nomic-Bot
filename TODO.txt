@@ -1,0 +1,7 @@
+name change detection and resolution
+add names to rules for person that proposed
+first place - last place interraction/detection
+
+
+-github sync
+-readme files
